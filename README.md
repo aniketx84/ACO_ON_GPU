@@ -8,7 +8,7 @@ Run make to compile the files.
 ## Running
 There will be three output files
 data_pralallel, task_based and two_opt. Any can be run by the following syntax:
-./<algorithm_name> <instance_location> <Number_of_ants> <optimal_solution(optinal)>
+./<algorithm_name> <instance_location> <Number_of_ants> <optimal_solution(optional)>
 the last parameter is used to calculate the error rate.
 example:
 ./data_parallel instances/rat575 575 6773
